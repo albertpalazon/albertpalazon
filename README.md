@@ -25,9 +25,9 @@ I value structured methodology, technical depth and continuous improvement.
 
 ## Featured Projects
 
-- 🔎 OSINT Linux Distribution (Master’s Final Project)
-- 🔐 Security Labs & Writeups
-- 🛠 Security Projects & Research
+- OSINT Linux Distribution (Master’s Final Project)
+- Security Labs & Writeups
+- Security Projects & Research
 
 ---
 
