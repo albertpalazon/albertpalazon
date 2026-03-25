@@ -38,6 +38,9 @@ I value structured methodology, technical depth and continuous improvement.
 - Advanced offensive security methodologies
 - OSINT automation workflows
 - Continuous hands-on practice
+- Log analysis and monitoring labs with ELK
+- Incident-oriented analytical background from enterprise IT
+- Identity / access / cloud admin exposure (Azure AD, Teams, enterprise support)
 
 ---
 
@@ -47,3 +50,4 @@ I value structured methodology, technical depth and continuous improvement.
 - eJPTv2 (INE)
 - CCSP (ISMS Forum)
 - eCPPTv3 (in progress)
+- OSCP (in progress)
