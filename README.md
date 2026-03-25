@@ -34,6 +34,7 @@ I value structured methodology, technical depth and continuous improvement.
 ## Current Learning Focus
 
 - eCPPTv3 preparation
+- OSCP preparation
 - Advanced offensive security methodologies
 - OSINT automation workflows
 - Continuous hands-on practice
